@@ -287,7 +287,7 @@
  h2.wsite-checkout-header { padding-bottom: 0 !important; }
  #wsite-com-checkout-list .wsite-com-checkout-item-image, #wsite-com-checkout-summary-list .wsite-com-checkout-item-image { max-width: 50px; max-height: 50px; margin-right: 10px; }
  #wsite-com-checkout-list .wsite-com-checkout-item-details-inner, #wsite-com-checkout-summary-list .wsite-com-checkout-item-details-inner { padding-left: 0 !important; }
- .wsite-com-checkout-item-details{ width: 30%; }
+ .wsite-com-checkout-item-details{ width: 30%; } 
  #wsite-com-checkout-list { font-size: .75em !important; }
  .wsite-com-continue-shopping, button.wsite-button.wsite-button-large.wsite-button-highlight.wsite-checkout-button.wsite-com-paypal-checkout-button { font-size: .85em !important; }
  #wsite-com-checkout-list .wsite-form-input:not(.wsite-coupon-input), #wsite-com-checkout-summary-list .wsite-form-input:not(.wsite-coupon-input) { width: 45px !important; margin: 0 10px !important; padding: 5px !important; }
